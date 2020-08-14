@@ -1,0 +1,16 @@
+untuk nama untuk databasenya spp
+
+nama sql adalah spp
+
+untuk username dan password login :
+username : admin
+password : admin
+level : admin
+
+username : test
+password : cintakasih
+level : petugas
+
+siswa : Adrian William Alvin
+password : 123623
+level : siswa
